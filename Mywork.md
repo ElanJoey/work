@@ -30,13 +30,13 @@ int main(){
 >>引用2
 >>>引用3
 ---
-1. 1
-1. 2
-1. 3
+1. English
+2. Math
+3. Computer Science
 ---
-* 1
-    * 2
-        * 3
+* Computer Science
+    * C++
+        * C
 ---
 
 | 科目                  | 人数    | 老师  |
