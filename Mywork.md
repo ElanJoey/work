@@ -8,13 +8,15 @@
 
 ![图像2](https://github.com/ElanJoey/work/blob/main/work1.png)
 
-`#include <stdio.h>
-int main()
-{
-    printf("Hello, World!");
+```cpp
+#include<iostream>
+int main(){
+    std::cout<<"Hello,World!"<<std::endl;
     return 0;
 }
-`
+```
+
+
 | 科目                  | 人数    | 老师  |
 | --------              | -----:  | :----: |
 | 计算机专业英语        | 50      |   1    |
