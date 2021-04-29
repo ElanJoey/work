@@ -14,14 +14,15 @@
 
 ---
 
-![图像1](https://github.com/ElanJoey/work/blob/main/mywork1.png)
+5. ![图像1](https://github.com/ElanJoey/work/blob/main/mywork1.png)
 
 ---
 
-![图像2](https://github.com/ElanJoey/work/blob/main/work1.png)
+6. ![图像2](https://github.com/ElanJoey/work/blob/main/work1.png)
 
 ---
 
+7.
 ```cpp
 #include<iostream>
 int main(){
@@ -29,14 +30,20 @@ int main(){
     return 0;
 }
 ```
+
 ---
+
+8.
 >引用1
 >>引用2
 >>>引用3
+
 ---
+9. 
 1. English
 2. Math
 3. Computer Science
+
 ---
 * Computer Science
     * C++
