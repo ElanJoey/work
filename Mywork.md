@@ -7,3 +7,5 @@
 ![图像1](https://github.com/ElanJoey/work/blob/main/mywork1.png)
 
 ![图像2](https://github.com/ElanJoey/work/blob/main/work1.png)
+
+'printf("Hello World!");'
