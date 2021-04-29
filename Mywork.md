@@ -3,15 +3,19 @@
 #### mywork
 ---
 [点此跳转至README](https://github.com/ElanJoey/work/blob/main/README.md)
+
 ---
 
 [点此跳转至百度](https://www.baidu.com/?tn=88093251_80_hao_pg)
+
 ---
 
 ![图像1](https://github.com/ElanJoey/work/blob/main/mywork1.png)
+
 ---
 
 ![图像2](https://github.com/ElanJoey/work/blob/main/work1.png)
+
 ---
 
 ```cpp
@@ -26,9 +30,9 @@ int main(){
 >>引用2
 >>>引用3
 ---
-* 1
-* 2
-* 3
+1.1
+1.2
+1.3
 ---
 * 1
     * 2
@@ -45,9 +49,13 @@ int main(){
 
 
 **加粗文本**
+
 ---
 
 *斜体文本*
+
 ---
+
 ~~删除文本~~
+
 ---
