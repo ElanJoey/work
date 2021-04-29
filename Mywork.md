@@ -8,4 +8,4 @@
 
 ![图像2](https://github.com/ElanJoey/work/blob/main/work1.png)
 
-'printf("Hello World!");'
+`printf("Hello World!");`
