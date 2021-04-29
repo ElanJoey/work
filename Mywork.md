@@ -36,7 +36,7 @@ int main(){
 ---
 * Computer Science
     * C++
-        * C
+    * C
 ---
 
 | 科目                  | 人数    | 老师  |
