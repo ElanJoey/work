@@ -40,10 +40,9 @@ int main(){
 
 ---
 
-9.
- 1. English
- 2. Math
- 3. Computer Science
+1. English
+2. Math
+3. Computer Science
 
 ---
 
